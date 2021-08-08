@@ -42,5 +42,6 @@ public class Test {
 
         System.out.println(car.getName());
         System.out.println("master 第一次提交 ");
+        System.out.println("master 本地 第一次提交 ");
     }
 }
