@@ -41,5 +41,6 @@ public class Test {
         name.set(car, "思域");
 
         System.out.println(car.getName());
+        System.out.println("master 第一次提交 ");
     }
 }
