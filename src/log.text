@@ -1,0 +1,5 @@
+任务1 :pool-1-thread-1,quene :0
+任务4 :pool-1-thread-2,quene :2
+任务2 :pool-1-thread-2,quene :1
+任务3 :pool-1-thread-2,quene :0
+任务5 :pool-1-thread-2,quene :0
